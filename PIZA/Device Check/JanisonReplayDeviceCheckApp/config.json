@@ -1,0 +1,9 @@
+{
+    "web":  "https://pbts.oecd-eu.janisoncloud.com/",
+    "connections":  [
+                        "https://pbts.oecd-eu.janisoncloud.com/",
+                        "https://eun0202oecdprod.blob.core.windows.net/cpm/_isAlive.js",
+                        "https://eun0202oecdprod.azureedge.net/cpm/_isAlive.js"
+                    ],
+    "debug":  false
+}

@@ -1,0 +1,562 @@
+[1108/105407.422:VERBOSE1:pref_proxy_config_tracker_impl.cc(151)] 0ACF5078: set chrome proxy config service to 0AD2BA30
+[1108/105407.424:VERBOSE1:pref_proxy_config_tracker_impl.cc(278)] 0ACF5078: Done pushing proxy to UpdateProxyConfig
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom CT log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[1108/105407.451:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[1108/105407.993:VERBOSE1:pref_proxy_config_tracker_impl.cc(151)] 078842A0: set chrome proxy config service to 0AD54700
+[1108/105407.994:VERBOSE1:pref_proxy_config_tracker_impl.cc(278)] 078842A0: Done pushing proxy to UpdateProxyConfig
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom CT log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[1108/105407.997:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[1108/105408.022:VERBOSE1:webrtc_internals.cc(99)] Could not get the download directory.
+[1108/105410.299:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/105411.841:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/105411.940:INFO:cpu_info.cc(50)] Available number of cores: 4
+[1108/105413.142:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/105413.144:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/105413.344:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  2F4019EC
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[1108/105413.345:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  00000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[1108/105413.346:VERBOSE1:dispatcher.cc(396)] Num tracked contexts: 1
+[1108/105413.642:VERBOSE1:mime_sniffing_resource_handler.cc(355)] To buffer: file:///D:/Device%20Check/JanisonReplayDeviceCheckApp/app/lato-regular.ttf
+[1108/105414.368:VERBOSE1:mime_sniffing_resource_handler.cc(355)] To buffer: file:///D:/Device%20Check/JanisonReplayDeviceCheckApp/app/lato-black.ttf
+[1108/105430.241:VERBOSE1:proxy_service.cc(1244)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[1108/105519.857:VERBOSE1:statistics_recorder.cc(498)] Collections of all histograms
+Histogram: GPU.ANGLE.D3D11CreateDeviceMS recorded 1 samples, mean = 1990.0 (flags = 0x1)
+0     ... 
+1782  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2117  ... 
+
+Histogram: GPU.ANGLE.D3D11FeatureLevel recorded 1 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.ANGLE.D3D11InitializeResult recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.D3DCompileMS recorded 18 samples, mean = 27.4 (flags = 0x1)
+0    ... 
+2    ------------------------------------------------------------------------O (3 = 16.7%) {0.0%}
+3    ------------------------------------------------------------------------O (3 = 16.7%) {16.7%}
+4    ------------------------------------------------O                         (2 = 11.1%) {33.3%}
+5    O                                                                         (0 = 0.0%) {44.4%}
+6    ------------------------------------------------O                         (2 = 11.1%) {44.4%}
+7    ------------------------O                                                 (1 = 5.6%) {55.6%}
+8    ------------------------------------O                                     (3 = 16.7%) {61.1%}
+10   ... 
+14   --------O                                                                 (1 = 5.6%) {77.8%}
+17   --------O                                                                 (1 = 5.6%) {83.3%}
+20   ... 
+190  ----------O                                                               (2 = 11.1%) {88.9%}
+226  ... 
+
+Histogram: GPU.ANGLE.DisplayInitializeMS recorded 1 samples, mean = 2213.0 (flags = 0x1)
+0     ... 
+2117  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2516  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDLLsMS recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDeviceMS recorded 1 samples, mean = 185.0 (flags = 0x1)
+0    ... 
+160  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+190  ... 
+
+Histogram: GPU.ANGLE.SupportsDXGI1_2 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 32.0 (flags = 0x1)
+0   ... 
+29  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+34  ... 
+
+Histogram: GPU.ContextMemory.GLES.Periodic recorded 4 samples, mean = 3.3 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 50.0%)
+1  ... 
+6  ------------------------------------O                                     (1 = 25.0%) {50.0%}
+7  ------------------------------------O                                     (1 = 25.0%) {75.0%}
+8  ... 
+
+Histogram: GPU.ContextMemory.GLES.Shutdown recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: GPU.DoLinkProgramTime recorded 9 samples, mean = 47.9 (flags = 0x1)
+0    ... 
+6    ------------------------------------------------------------------------O (1 = 11.1%) {0.0%}
+7    O                                                                         (0 = 0.0%) {11.1%}
+8    ------------------------------------------------------------------------O (2 = 22.2%) {11.1%}
+10   ------------------------------------O                                     (1 = 11.1%) {33.3%}
+12   ------------------------------------------------------------------------O (2 = 22.2%) {44.4%}
+14   O                                                                         (0 = 0.0%) {66.7%}
+17   ------------------------------------------------O                         (2 = 22.2%) {66.7%}
+20   ... 
+318  --------------O                                                           (1 = 11.1%) {88.9%}
+378  ... 
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 4.0 (flags = 0x1)
+0  ... 
+4  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+5  ... 
+
+Histogram: GPU.FenceSupport recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 2698.0 (flags = 0x1)
+0     ... 
+2449  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3005  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+16  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.ProgramCache.BinaryCacheMissTime recorded 9 samples, mean = 35284.7 (flags = 0x1)
+0       ... 
+3865    ------------------------O                                                 (1 = 11.1%) {0.0%}
+5362    ------------------------O                                                 (1 = 11.1%) {11.1%}
+7439    ------------------------------------------------------------------------O (3 = 33.3%) {22.2%}
+10321   ------------------------O                                                 (1 = 11.1%) {55.6%}
+14319   ------------------------------------------------O                         (2 = 22.2%) {66.7%}
+19866   ... 
+196583  ------------------------O                                                 (1 = 11.1%) {88.9%}
+272741  ... 
+
+Histogram: GPU.ProgramCache.CacheHit recorded 9 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (9 = 100.0%)
+1  ... 
+
+Histogram: GPU.ProgramCache.MemorySizeAfterKb recorded 9 samples, mean = 41.4 (flags = 0x1)
+0   ... 
+5   ------------------------------------------------------------------------O (1 = 11.1%) {0.0%}
+7   ... 
+12  ------------------------------------O                                     (1 = 11.1%) {11.1%}
+16  -----------------------------O                                            (1 = 11.1%) {22.2%}
+21  O                                                                         (0 = 0.0%) {33.3%}
+28  -----------------------------O                                            (1 = 11.1%) {33.3%}
+37  -----------------------------O                                            (1 = 11.1%) {44.4%}
+49  ----------------------------------------------------------O               (2 = 22.2%) {55.6%}
+65  ----------------------------------------------------------O               (2 = 22.2%) {77.8%}
+86  ... 
+
+Histogram: GPU.ProgramCache.MemorySizeBeforeKb recorded 9 samples, mean = 32.6 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 11.1%)
+1   ... 
+5   ------------------------------------O                                     (1 = 11.1%) {11.1%}
+7   ... 
+12  ------------------O                                                       (1 = 11.1%) {22.2%}
+16  --------------O                                                           (1 = 11.1%) {33.3%}
+21  O                                                                         (0 = 0.0%) {44.4%}
+28  --------------O                                                           (1 = 11.1%) {44.4%}
+37  --------------O                                                           (1 = 11.1%) {55.6%}
+49  -----------------------------O                                            (2 = 22.2%) {66.7%}
+65  --------------O                                                           (1 = 11.1%) {88.9%}
+86  ... 
+
+Histogram: GPU.ProgramCache.ProgramBinarySizeBytes recorded 9 samples, mean = 9203.1 (flags = 0x1)
+0     ... 
+5338  ------------------O                                                       (1 = 11.1%) {0.0%}
+7031  ------------------------------------------------------------------------O (4 = 44.4%) {11.1%}
+9260  ------------------------------------------------------------------------O (4 = 44.4%) {55.6%}
+12196 ... 
+
+Histogram: GPU.TextureRG recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Mojo.System.GetParentPlatformHandleSyncTime recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Mojo.System.MessagesAcceptedPerEvent recorded 4607 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (4544 = 98.6%)
+1  -O                                                                        (33 = 0.7%) {98.6%}
+2  O                                                                         (20 = 0.4%) {99.3%}
+3  O                                                                         (2 = 0.0%) {99.8%}
+4  O                                                                         (6 = 0.1%) {99.8%}
+5  ... 
+8  O                                                                         (2 = 0.0%) {100.0%}
+9  ... 
+
+Histogram: Mojo.System.Node.ConnectedPeers recorded 3 samples, mean = 1.3 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 66.7%) {0.0%}
+2  ------------------------------------O                                     (1 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Mojo.System.Node.PendingChildren recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: TaskScheduler.DetachDuration.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TrackedObjects.GetRetiredOrCreateThreadData recorded 6 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (6 = 100.0%)
+1  ... 
+
+Histogram: UMA.Histograms.Activity.gpu-process recorded 126 samples, mean = 3.8 (flags = 0x1)
+0  --O                                                                       (1 = 0.8%)
+1  ------------------------------------------------------------------------O (36 = 28.6%) {0.8%}
+2  ----------------------------------O                                       (17 = 13.5%) {29.4%}
+3  --------------------------------------------------------O                 (28 = 22.2%) {42.9%}
+4  --------O                                                                 (4 = 3.2%) {65.1%}
+5  ------O                                                                   (3 = 2.4%) {68.3%}
+6  O                                                                         (0 = 0.0%) {70.6%}
+7  --O                                                                       (1 = 0.8%) {70.6%}
+8  ------------------------------------------------------------------------O (36 = 28.6%) {71.4%}
+9  ... 
+
+Histogram: V8.Initializer.LoadV8Snapshot.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+
+[1108/124048.226:VERBOSE1:pref_proxy_config_tracker_impl.cc(151)] 0B6AD408: set chrome proxy config service to 0B692EE0
+[1108/124048.226:VERBOSE1:pref_proxy_config_tracker_impl.cc(278)] 0B6AD408: Done pushing proxy to UpdateProxyConfig
+[1108/124048.227:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[1108/124048.227:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[1108/124048.227:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[1108/124048.227:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom CT log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[1108/124048.228:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[1108/124048.272:VERBOSE1:pref_proxy_config_tracker_impl.cc(151)] 0804A020: set chrome proxy config service to 0B72B6C8
+[1108/124048.272:VERBOSE1:pref_proxy_config_tracker_impl.cc(278)] 0804A020: Done pushing proxy to UpdateProxyConfig
+[1108/124048.273:VERBOSE1:webrtc_internals.cc(99)] Could not get the download directory.
+[1108/124048.273:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[1108/124048.273:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom CT log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[1108/124048.274:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[1108/124048.830:INFO:cpu_info.cc(50)] Available number of cores: 8
+[1108/124049.209:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1108/124049.889:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/124049.895:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/124049.899:VERBOSE1:gles2_cmd_decoder.cc(3297)] GL_OES_packed_depth_stencil supported.
+[1108/124049.922:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  5C6C19EC
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[1108/124049.923:VERBOSE1:script_context.cc(111)] Created context:
+  extension id:           (none)
+  frame:                  00000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[1108/124049.923:VERBOSE1:dispatcher.cc(396)] Num tracked contexts: 1
+[1108/124050.061:VERBOSE1:mime_sniffing_resource_handler.cc(355)] To buffer: file:///C:/Users/Alunos/Downloads/PIZA/Device%20Check/JanisonReplayDeviceCheckApp/app/lato-regular.ttf
+[1108/124050.451:VERBOSE1:mime_sniffing_resource_handler.cc(355)] To buffer: file:///C:/Users/Alunos/Downloads/PIZA/Device%20Check/JanisonReplayDeviceCheckApp/app/lato-black.ttf
+[1108/125058.739:VERBOSE1:statistics_recorder.cc(498)] Collections of all histograms
+Histogram: GPU.ANGLE.D3D11CreateDeviceMS recorded 1 samples, mean = 464.0 (flags = 0x1)
+0    ... 
+449  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+533  ... 
+
+Histogram: GPU.ANGLE.D3D11FeatureLevel recorded 1 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.ANGLE.D3D11InitializeResult recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.D3DCompileMS recorded 18 samples, mean = 7.3 (flags = 0x1)
+0   ... 
+2   ----------O                                                               (1 = 5.6%) {0.0%}
+3   ------------------------------------------------------------------------O (7 = 38.9%) {5.6%}
+4   -------------------------------O                                          (3 = 16.7%) {44.4%}
+5   ... 
+8   ---------------O                                                          (3 = 16.7%) {61.1%}
+10  O                                                                         (0 = 0.0%) {77.8%}
+12  ----------O                                                               (2 = 11.1%) {77.8%}
+14  ... 
+20  ---O                                                                      (1 = 5.6%) {88.9%}
+24  --O                                                                       (1 = 5.6%) {94.4%}
+29  ... 
+
+Histogram: GPU.ANGLE.DisplayInitializeMS recorded 1 samples, mean = 467.0 (flags = 0x1)
+0    ... 
+449  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+533  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDLLsMS recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: GPU.ANGLE.Renderer11InitializeDeviceMS recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: GPU.ANGLE.SupportsDXGI1_2 recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.CollectContextGraphicsInfo recorded 1 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  ... 
+
+Histogram: GPU.ContextMemory.GLES.Periodic recorded 40 samples, mean = 2.8 (flags = 0x1)
+0  ------------------------------------------------------------------------O (20 = 50.0%)
+1  ... 
+5  ----------------------O                                                   (6 = 15.0%) {50.0%}
+6  --------------------------------------------------O                       (14 = 35.0%) {65.0%}
+7  ... 
+
+Histogram: GPU.ContextMemory.GLES.Shutdown recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: GPU.DoLinkProgramTime recorded 9 samples, mean = 17.1 (flags = 0x1)
+0   ... 
+7   ------------------------------------------------------------------------O (1 = 11.1%) {0.0%}
+8   ... 
+12  ------------------------------------------------------------------------O (2 = 22.2%) {11.1%}
+14  ------------------------------------------------O                         (2 = 22.2%) {33.3%}
+17  ------------------------O                                                 (1 = 11.1%) {55.6%}
+20  ------------------O                                                       (1 = 11.1%) {66.7%}
+24  -----------------------------O                                            (2 = 22.2%) {77.8%}
+29  ... 
+
+Histogram: GPU.EGLDisplayType recorded 1 samples, mean = 4.0 (flags = 0x1)
+0  ... 
+4  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+5  ... 
+
+Histogram: GPU.FenceSupport recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: GPU.InitializeOneOffMediumTime recorded 1 samples, mean = 613.0 (flags = 0x1)
+0    ... 
+585  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+718  ... 
+
+Histogram: GPU.MaxMSAASampleCount recorded 1 samples (flags = 0x1)
+8  ------------------------------------------------------------------------O (1 = 100.0%)
+
+Histogram: GPU.ProgramCache.BinaryCacheMissTime recorded 9 samples, mean = 14666.7 (flags = 0x1)
+0      ... 
+3865   ------------------------O                                                 (1 = 11.1%) {0.0%}
+5362   O                                                                         (0 = 0.0%) {11.1%}
+7439   ------------------------------------------------O                         (2 = 22.2%) {11.1%}
+10321  ------------------------------------------------------------------------O (3 = 33.3%) {33.3%}
+14319  O                                                                         (0 = 0.0%) {66.7%}
+19866  ------------------------------------------------------------------------O (3 = 33.3%) {66.7%}
+27562  ... 
+
+Histogram: GPU.ProgramCache.CacheHit recorded 9 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (9 = 100.0%)
+1  ... 
+
+Histogram: GPU.ProgramCache.MemorySizeAfterKb recorded 9 samples, mean = 41.4 (flags = 0x1)
+0   ... 
+5   ------------------------------------------------------------------------O (1 = 11.1%) {0.0%}
+7   ... 
+12  ------------------------------------O                                     (1 = 11.1%) {11.1%}
+16  -----------------------------O                                            (1 = 11.1%) {22.2%}
+21  O                                                                         (0 = 0.0%) {33.3%}
+28  -----------------------------O                                            (1 = 11.1%) {33.3%}
+37  -----------------------------O                                            (1 = 11.1%) {44.4%}
+49  ----------------------------------------------------------O               (2 = 22.2%) {55.6%}
+65  ----------------------------------------------------------O               (2 = 22.2%) {77.8%}
+86  ... 
+
+Histogram: GPU.ProgramCache.MemorySizeBeforeKb recorded 9 samples, mean = 32.6 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 11.1%)
+1   ... 
+5   ------------------------------------O                                     (1 = 11.1%) {11.1%}
+7   ... 
+12  ------------------O                                                       (1 = 11.1%) {22.2%}
+16  --------------O                                                           (1 = 11.1%) {33.3%}
+21  O                                                                         (0 = 0.0%) {44.4%}
+28  --------------O                                                           (1 = 11.1%) {44.4%}
+37  --------------O                                                           (1 = 11.1%) {55.6%}
+49  -----------------------------O                                            (2 = 22.2%) {66.7%}
+65  --------------O                                                           (1 = 11.1%) {88.9%}
+86  ... 
+
+Histogram: GPU.ProgramCache.ProgramBinarySizeBytes recorded 9 samples, mean = 9203.1 (flags = 0x1)
+0     ... 
+5338  ------------------O                                                       (1 = 11.1%) {0.0%}
+7031  ------------------------------------------------------------------------O (4 = 44.4%) {11.1%}
+9260  ------------------------------------------------------------------------O (4 = 44.4%) {55.6%}
+12196 ... 
+
+Histogram: GPU.TextureRG recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Mojo.System.GetParentPlatformHandleSyncTime recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Mojo.System.MessagesAcceptedPerEvent recorded 10956 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (10891 = 99.4%)
+1  O                                                                         (34 = 0.3%) {99.4%}
+2  O                                                                         (20 = 0.2%) {99.7%}
+3  O                                                                         (2 = 0.0%) {99.9%}
+4  O                                                                         (7 = 0.1%) {99.9%}
+5  O                                                                         (1 = 0.0%) {100.0%}
+6  O                                                                         (0 = 0.0%) {100.0%}
+7  O                                                                         (1 = 0.0%) {100.0%}
+8  ... 
+
+Histogram: Mojo.System.Node.ConnectedPeers recorded 3 samples, mean = 1.3 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 66.7%) {0.0%}
+2  ------------------------------------O                                     (1 = 33.3%) {66.7%}
+3  ... 
+
+Histogram: Mojo.System.Node.PendingChildren recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: TaskScheduler.DetachDuration.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBeforeDetach.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.NumTasksBetweenWaits.SimplePool recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.BackgroundTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserBlockingTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TaskScheduler.TaskLatency.UserVisibleTaskPriority.MayBlock recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: TrackedObjects.GetRetiredOrCreateThreadData recorded 6 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (6 = 100.0%)
+1  ... 
+
+Histogram: UMA.Histograms.Activity.gpu-process recorded 126 samples, mean = 3.8 (flags = 0x1)
+0  --O                                                                       (1 = 0.8%)
+1  ------------------------------------------------------------------------O (36 = 28.6%) {0.8%}
+2  ----------------------------------O                                       (17 = 13.5%) {29.4%}
+3  --------------------------------------------------------O                 (28 = 22.2%) {42.9%}
+4  --------O                                                                 (4 = 3.2%) {65.1%}
+5  ------O                                                                   (3 = 2.4%) {68.3%}
+6  O                                                                         (0 = 0.0%) {70.6%}
+7  --O                                                                       (1 = 0.8%) {70.6%}
+8  ------------------------------------------------------------------------O (36 = 28.6%) {71.4%}
+9  ... 
+
+Histogram: V8.Initializer.LoadV8Snapshot.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+
